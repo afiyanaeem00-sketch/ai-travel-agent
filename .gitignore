@@ -1,0 +1,5 @@
+venv/
+travel_reports/
+*.pyc
+__pycache__/
+.env
