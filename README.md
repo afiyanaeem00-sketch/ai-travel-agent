@@ -2,6 +2,8 @@
 
 A multi-agent AI system that takes your **origin and destination**, researches the internet in real-time, and produces a complete travel plan with **both budget and mid-range options** — including transport, hotels, hostels, food, and practical tips.
 
+Access here - https://ai-travel-agent-afiyanaeem-00.streamlit.app/
+
 ---
 
 ## What It Does
