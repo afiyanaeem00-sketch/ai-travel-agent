@@ -1,31 +1,31 @@
 [
   {
     "type": "summary",
-    "content": "Indian passport holders need a Schengen visa to visit Paris, France. The passport must be valid for at least six months beyond the planned departure date. No visa-on-arrival is available for Indian citizens."
+    "content": "For an Indian passport holder, apply for a Japan e-visa with a valid passport, application form, financial proof, and travel itinerary. Ensure passport has at least six months validity. Submit application online or at designated centers."
   },
   {
-    "title": "France lifts airport transit visa requirements for Indian nationals | France in India",
-    "url": "https://in.diplomatie.gouv.fr/en/france-lifts-airport-transit-visa-requirements-indian-nationals",
-    "snippet": "# France lifts airport transit visa requirements for Indian nationals. With effect from 10 April 2026, Indian nationals possessing an ordinary passport are no longer required to hold an airport transit visa when passing through the international zone of airports located on French territory. During his recent visit to India in February 2026, French President Emmanuel Macron had announced that measu"
+    "title": "India Passport Visa for Japan \u2014 eVisa - Peninsula Visa",
+    "url": "https://www.peninsulavisa.com/visa-requirements/india-to-japan",
+    "snippet": "Documents Required \u00b7 Valid passport (6+ months validity) \u00b7 Passport photos \u00b7 Application form \u00b7 Proof of accommodation \u00b7 Return ticket \u00b7 Bank statement."
   },
   {
-    "title": "Visawire - Indian citizens residing in the UK need a France Schengen visa to visit France. This comprehensive guide covers everything from eligibility requirements to application procedures, helping you navigate the visa process successfully from London.",
-    "url": "https://visawire.co.uk/blogs/india-france-visa-guide",
-    "snippet": "# France Visa Guide for Indian Citizens in UK Complete Application Guide 2025. Yes, Indian citizens residing in London need a Schengen visa to travel to France. Your nationality is what matters here, not your UK residence being an Indian passport holder means you can't skip the visa process. ### Need Help with Your France Visa? ## France Schengen Visa Eligibility Criteria for Indian Passport Holde"
+    "title": "Embassy of India Tokyo, Japan",
+    "url": "https://www.indembassy-tokyo.gov.in/eoityo_pages/MjE,",
+    "snippet": "(Only copy of self-attested Residence Card is required, if application is sent by post)  One recent (taken within the last six months) passport-size photograph\u00a0with ICAO compliant (guidelines provided above)   * - For the passport application form, the printable address should be the Indian address and the other address should be the Japan address. | **If there is change of name after marriage ;**"
   },
   {
-    "title": "Regular Visa",
-    "url": "https://www.eoiparis.gov.in/page/regular-visa",
-    "snippet": "Passport Requirement: Original passport with a minimum validity of six monthsat the time of submitting visa application for grant of visa and at least two"
+    "title": "Japan Visa for Indians IMPORTANT UPDATE in 2026 || Documents Required",
+    "url": "https://www.youtube.com/watch?v=LEIMNgEnLsQ",
+    "snippet": "Japan Visa for Indians IMPORTANT UPDATE in 2026 || Documents Required\nSoftware Traveller\n56600 subscribers\n140 likes\n12657 views\n16 Feb 2026\n\u2705 Japan Visa for Indians 2026 has some IMPORTANT updates that every traveler must know before applying \ud83c\uddef\ud83c\uddf5\n\nIf you are planning a Japan trip in 2026 from India, this video will help you understand:\n\n\u2714 Latest Japan tourist visa rules\n\u2714 Updated document checklis"
   },
   {
-    "title": "France Visa - E-Visa Requirements, Eligibility & How to Apply",
-    "url": "https://www.airindia.com/in/en/travel-information/visa-services/france-visa.html",
-    "snippet": "France does not offer visa-on-arrival for Indian citizens. Prior to visiting France, Indian nationals are required to obtain a Schengen visa if they are"
+    "title": "Japan Visa - E-Visa Requirements, Eligibility & How to Apply - Air India",
+    "url": "https://www.airindia.com/in/en/travel-information/visa-services/japan-visa.html",
+    "snippet": "Application form duly filled and signed by the applicant with photograph. \u00b7 Two recent colour photos with white background size of 2X2 inches with 70% face"
   },
   {
-    "title": "How to apply for a France visa?",
-    "url": "https://www.goindigo.in/information/visa-information/france-fr-visa.html",
-    "snippet": "Completed application form \u00b7 A passport that is valid for at least six months from the date of departure \u00b7 Confirmed return tickets \u00b7 Proof of accommodation"
+    "title": "Japan Tourist Visa from India - Approved [Detailed Guide] - Reddit",
+    "url": "https://www.reddit.com/r/visas/comments/1k7ekl4/japan_tourist_visa_from_india_approved_detailed",
+    "snippet": "Visa Type: 30 days Single Entry Visa valid for 90 days. Book Visa appointment 15-30 days prior to the date of travel. 30 day single entry visa"
   }
 ]

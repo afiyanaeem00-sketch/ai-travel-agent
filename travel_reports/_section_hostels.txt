@@ -1,31 +1,31 @@
 [
   {
     "type": "summary",
-    "content": "Budget hostels in Paris, France, start from \u20ac4 per night, with average prices around $57. The cheapest month to book is January. Popular hostels include The People and St Christopher's Inn."
+    "content": "Budget hostels in Tokyo typically start from $8 per night, with average prices around $32. The cheapest month to book is June. Prices can vary based on demand."
   },
   {
-    "title": "Affordable Paris Hostels From $57/night - HotelsCombined",
-    "url": "https://www.hotelscombined.com/Place/Paris-hostels.htm",
-    "snippet": "## Search and compare Paris, France hostels from hundreds of travel sites on HotelsCombined and save. Compare hotel ratings collected from thousands of user reviews. Customize your results by hotel chain, amenities, price and more. Search for hotels as many times as you want \u2013 for free. ## Popular hostels in Paris. There are 19,695 hotels in Paris and price data was last updated on June 25, 2026. "
+    "title": "Affordable Tokyo Hostels From $8/night - HotelsCombined",
+    "url": "https://www.hotelscombined.com/Place/Tokyo-hostels.htm",
+    "snippet": "## Search and compare Tokyo, Japan hostels from hundreds of travel sites on HotelsCombined and save. Compare hotel ratings collected from thousands of user reviews. Customize your results by hotel chain, amenities, price and more. Search for hotels as many times as you want \u2013 for free. ## Popular hostels in Tokyo. There are 12,330 hotels in Tokyo and price data was last updated on June 28, 2026. 5"
   },
   {
-    "title": "Hostels in Paris from $51/night - KAYAK",
-    "url": "https://www.kayak.com/Paris-Hotels_Hostel.Thostel.36014.hotel.ksp",
-    "snippet": "## KAYAK searches hundreds of travel sites at once for hostels in Paris. Le Village Montmartre by Hiphophostels - Paris - Bedroom. The Playce - Paris - Paris - Bedroom. The People - Paris Bercy - Paris - Bar. Le Regent Montmartre by Hiphophostels - Paris - Building. Aloha Eiffel Tower by Hiphophostels - Paris - Bedroom. The cheapest month to book a hostel in Paris is January, with an average night"
+    "title": "The Best Tokyo Hostels from $32 | Expedia",
+    "url": "https://www.expedia.com/Tokyo-Hostels.d179900-aaHostels.Travel-Guide-Accommodation",
+    "snippet": "Tokyo hostels that best suit your budget. Lowest nightly price found within the past 24 hours based on a 1 night stay for 2 adults. Hostels Lowest Price $32"
   },
   {
-    "title": "Hostels in Paris from \u20ac4 \ud83e\udd11 for Solo Travel 2026",
-    "url": "https://www.hostelz.com/hostels/France/Paris",
-    "snippet": "## Top Picks: The Best Hostels in Paris. Best for Female Solo Traveler. The People Hostel - Par...9.1. This is **not** an ad. We help you find the perfect hostel and compare prices from Hostelworld and Booking. #### Top Social Hostels. # Hostels in Paris, France. Prices start from \u20ac4 for a dorm bed. The property offers cheaper privates and shared accommodation at 15 minutes to Paris Center. In cas"
+    "title": "Hostels in Tokyo from $8/night - KAYAK",
+    "url": "https://www.kayak.com/Tokyo-Hotels_Hostel.Thostel.21033.hotel.ksp",
+    "snippet": "## KAYAK searches hundreds of travel sites at once for hostels in Tokyo. Grids Tokyo Ueno Hotel & Hostel - Tokyo - Restaurant. Book & Bed Tokyo Shinjuku - Hostel - Tokyo. Hotel Plus Hostel Tokyo Asakusa 1 - Tokyo. The cheapest month to book a hostel in Tokyo is June, with an average nightly rate of $37. ### What is the cheapest day of the week to book a hostel in Tokyo? The most popular neighbourh"
   },
   {
-    "title": "What are the best hostels in Paris with private rooms under 60 euros?",
-    "url": "https://www.facebook.com/groups/paristraveltiphotelbookingthingstodo/posts/904494908097049",
-    "snippet": "Le Village Montmartre Hostel: Offers dorms and private rooms with views of the Basilica of Sacr\u00e9- Coeur, starting from $27 per night in shared"
+    "title": "Are Tokyo hostel prices normally over $100 per night? - Facebook",
+    "url": "https://www.facebook.com/groups/planmyjapanforum/posts/1114725503969294",
+    "snippet": "average a few hostels available for under $75 USD in Tokyo over the next few months with several exceptions. most hostel beds go up on"
   },
   {
-    "title": "THE 10 BEST Cheap Paris Hostels 2026 (with Prices) - Tripadvisor",
-    "url": "https://www.tripadvisor.com/HotelsList-Paris-Cheap-Hostels-zfp20141.html",
-    "snippet": "# THE 10 BEST Cheap Paris Hostels. ## Cheap Paris Hostels. St Christopher's Inn Paris - Canal 3.9 (1,498) #1 Best Value of 10 Cheap Paris Hostels    \"Superb buffet breakfast with lots of varieties to choose from which was yummy and affordable.\" \"Great atmosphere & good food with cheap cocktails!\"    from $57  Check availability. The People Belleville 4.4 (658) #2 Best Value of 10 Cheap Paris Hoste"
+    "title": "THE 5 BEST Cheap Tokyo Hostels 2026 (with Prices) - Tripadvisor",
+    "url": "https://www.tripadvisor.com/HotelsList-Tokyo-Cheap-Hostels-zfp20240.html",
+    "snippet": "# THE 5 BEST Cheap Tokyo Hostels. ## Cheap Tokyo Hostels. Akasaka Guesthouse Hive 4.9 (12) #2 Best Value of 7 Cheap Tokyo Hostels    \"Cheap, nice accommodation, clean, quiet\" \"The bunks unfortunately are constructed with cheap thin wood, and the opening the make it difficult to get in and out.\"    from $63  Check availability. Turn Table Hostel 4.8 (49) #3 Best Value of 7 Cheap Tokyo Hostels    \"F"
   }
 ]

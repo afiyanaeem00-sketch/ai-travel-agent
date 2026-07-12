@@ -1,31 +1,31 @@
 [
   {
     "type": "summary",
-    "content": "Mid-range hotels in Paris, France, typically range from $160 to $300 per night in 2026. Some options start as low as $51. Availability may vary based on events."
+    "content": "Mid-range hotels in Tokyo typically cost between $50 and $150 per night. Prices can vary based on location and amenities. Booking in advance often secures better rates."
   },
   {
-    "title": "Where to Stay: 12 Affordable Hotels in Paris - Petite Suitcase",
-    "url": "https://www.petitesuitcase.com/best-budget-hotels-paris",
-    "snippet": "Hotel rooms in Paris are some of the most expensive per square foot in Europe, and I know I\u2019m not the only one who is finding hotel pricing outrageous these days. I\u2019m all for a special occasion splurge, but pricing for even \u201cmid-range\u201d hotels has skyrocketed. However, I\u2019m still determined to find a decent hotel at a reasonable price point. These hotel suggestions all start at less than $300 a nigh"
+    "title": "Tokyo Hotel Price hikes? : r/JapanTravelTips - Reddit",
+    "url": "https://www.reddit.com/r/JapanTravelTips/comments/1jpgzfy/tokyo_hotel_price_hikes",
+    "snippet": "In 2023 stayed for a month and averaged somewhere between $50-$60 USD per night for highly rated and comfortable business hotels. low-mid $100s"
   },
   {
-    "title": "Reasonably Priced Paris Hotels - Rick Steves Travel Forum",
-    "url": "https://community.ricksteves.com/travel-forum/france/reasonably-priced-paris-hotels",
-    "snippet": "I'll be in Paris for the first week or so of October - any recommendations for a nice, reasonably priced hotel (yes, that is a relative term in Paris)? I\u2019m headed out tomorrow and we are booked at Hotel le Regent. Reviews are good, location is good, and price in US dollars at current exchange rate worked out to be $210 a night. Looks like Paris\u2019 Fashion \u201cWeek,\u201d conventions and the Grape Harvest Fe"
+    "title": "10 Best Hotels in Tokyo Under $100 Per Night | Budget Stays 2025",
+    "url": "https://www.youtube.com/watch?v=WFm5GQb7Va8",
+    "snippet": "10 Best Hotels in Tokyo Under $100 Per Night | Budget Stays 2025\nRest & Roam\n7170 subscribers\n13 likes\n662 views\n24 Sep 2025\n10 Best Hotels in Tokyo Under $100 Per Night | Budget Stays 2025\n\nDiscover the 10 Best Hotels in Tokyo under $100 per night \u2014 perfect for travelers who want to explore Japan\u2019s capital without breaking the bank. Tokyo is a city where futuristic skylines meet historic temples,"
   },
   {
-    "title": "THE 10 BEST Hotels in Paris, France 2026 (from $93)",
-    "url": "https://www.tripadvisor.com/Hotels-g187147-Paris_Ile_de_France-Hotels.html",
-    "snippet": "View deals from $93 per night, see photos and read reviews for the best Paris hotels from travelers like you - then compare today's"
+    "title": "What is the average price for a Tokyo hotel room? - Facebook",
+    "url": "https://www.facebook.com/groups/japantravel/posts/1262347238217187",
+    "snippet": "the average is $80-130, depending on the size of the room you choose. $200 USD a night. some options as low as $53 or as high as $500. for ~$"
   },
   {
-    "title": "Top 10 Hotels in Paris (from $51) 2026 - Competitive Prices",
-    "url": "https://www.expedia.com/Paris-Hotels.d179898.Travel-Guide-Hotels",
-    "snippet": "Located in the Paris area, Roissy-en-France is a smart choice ... 6.8/10 (1,008 reviews). $39 nightly. The price is $51 total per night from Jul 21 to Jul 22.Read more"
+    "title": "The best affordable hotels in Tokyo for a stylish stay that won't break the bank | CN Traveller",
+    "url": "https://www.cntraveller.com/gallery/cheapest-nicest-hotels-tokyo",
+    "snippet": "# 10 smart budget hotels in Tokyo for a stylish stay that won't break the bank. From Akasaka to Shinjuku, you can stay in these eclectic Tokyo hotels for under \u00a3250 a night. With new hotels cropping up left and right, everyone wants to be a part of this city, from popular hospitality brand Mitsui Fudosan to realtor giant Hulic, with their budget-friendly, luxury-lookalike in Ginza. Every hotel on "
   },
   {
-    "title": "The Best Hotels in Paris Under $300 a Night | Cond\u00e9 Nast Traveler",
-    "url": "https://www.cntraveler.com/gallery/cheapest-nicest-hotels-in-paris",
-    "snippet": "# The Best Hotels in Paris Under $300 a Night. For me, there's always been good reason to research some of the cheapest, nicest hotels in Paris. For the price of a spacious suite with a view in another\u00a0European city, here, this often equates to a shoebox with a pokey bathroom and window overlooking a back alley. There are, of course, some incredible\u00a0hotels in Paris\u2014among some of the best and most "
+    "title": "10 Best Tokyo Hotels, Japan (From US$37)",
+    "url": "https://www.booking.com/city/jp/tokyo.html",
+    "snippet": "# Search hotels in Tokyo. Enter your dates to see the latest prices and deals for Tokyo hotels. ## Tokyo \u2013 11835 hotels and places to stay. Ideally located in the center of Tokyo, Onyado Nono Asakusa Annex - Natural Hot Spring has air-conditioned rooms, a restaurant and free WiFi. Not sure why people have complained about beds but for me who has a bad back, the mattresses were absolutely perfect! "
   }
 ]

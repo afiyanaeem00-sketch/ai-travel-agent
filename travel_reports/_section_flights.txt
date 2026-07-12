@@ -1,31 +1,31 @@
 [
   {
     "type": "summary",
-    "content": "The cheapest one-way flight from Delhi to Paris is around \u00a3164 with Saudia. The lowest round-trip fare starts at $482 on Expedia. The cheapest business class flight is around \u00a39,754."
+    "content": "The cheapest flights from Delhi to Tokyo start around \u20b923,613. Japan Airlines and VietJet Air offer competitive prices. The lowest one-way fare is approximately S$ 434."
   },
   {
-    "title": "Find Cheap Flights from New Delhi to Paris (DEL - PAR) - Google Flights",
-    "url": "https://www.google.com/travel/flights/flights-from-new-delhi-to-paris.html",
-    "snippet": "# Cheap flights from New Delhi to Paris. | Cheapest round-trip flights | R$2,500 | Kuwait Airways1 stop15 hrThu, Sep 17 \u2014 Thu, Oct 1 | The cheapest round-trip flight from New Delhi to Paris is currently R$2,500 | View flights |. | Cheapest one-way flight | R$1,308 | Gulf Air1 stop31 hrWed, Sep 30 | The cheapest one-way flight from New Delhi to Paris is currently R$1,308 | View flights |. | Cheapes"
+    "title": "Delhi To Tokyo Flights",
+    "url": "https://www.makemytrip.com/international-flights/delhi-tokyo-cheap-airtickets.html",
+    "snippet": "Book Delhi (DEL) to Tokyo (TYO) flights on MakeMyTrip from \u20b923613. Choose from 19 daily flights, Japan Airlines, All Nippon Airways, Air India,"
   },
   {
-    "title": "\u00a3330 Cheap Flights from Delhi Indira Gandhi International (DEL) to Paris (PARI)",
-    "url": "https://www.skyscanner.net/routes/del/pari/delhi-indira-gandhi-international-to-paris.html",
-    "snippet": "# Cheap Flights from Delhi Indira Gandhi International (DEL) to Paris (PARI). From Delhi Indira Gandhi International(DEL). Compare Delhi Indira Gandhi International to Paris flight deals. ## Flight deals from Delhi Indira Gandhi International to Paris. Looking for a cheap last-minute deal or the best return flight from Delhi Indira Gandhi International Airport to Paris? Paris.\u00a3164 per passenger.De"
+    "title": "Cheap Flights from Delhi (DEL) to Tokyo (NRT)",
+    "url": "https://www.expedia.com/lp/flights/del/nrt/delhi-to-tokyo",
+    "snippet": "Japan Airlines is one of the cheapest airlines offering nonstop flights from Delhi (DEL) to Tokyo (NRT), with round-trip tickets starting from around $701. Use\u00a0...Read more"
   },
   {
-    "title": "Cheap Flights from Delhi (DEL) to Paris (CDG)",
-    "url": "https://www.expedia.com/lp/flights/del/cdg/delhi-to-paris",
-    "snippet": "Cheap Flights from Delhi (DEL) to Paris (CDG) start at $261 for one-way and $482 for round trip. Earn your airline miles on top of our rewards!"
+    "title": "Find Cheap Flights from New Delhi to Tokyo (DEL - TYO) - Google Flights",
+    "url": "https://www.google.com/travel/flights/flights-from-new-delhi-to-tokyo.html",
+    "snippet": "# Cheap flights from New Delhi to Tokyo. | Cheapest round-trip flights | R$2,499 | Vietjet1 stop12 hrFri, Sep 18 \u2014 Sat, Sep 26 | The cheapest round-trip flight from New Delhi to Tokyo is currently R$2,499 | View flights |. | Cheapest one-way flight | R$1,179 | Vietjet1 stop12 hrWed, Oct 7 | The cheapest one-way flight from New Delhi to Tokyo is currently R$1,179 | View flights |. | Cheapest nonsto"
   },
   {
-    "title": "Delhi to Paris Flights, Fare @ INR ...",
-    "url": "https://www.airindia.com/en-in/book-flights/delhi-to-paris-flights",
-    "snippet": "Book Delhi (DEL) to Paris (CDG) flights from INR 49955. 10 daily flights. Business & economy class available."
+    "title": "New Delhi to Tokyo (DEL-TYO) Cheap Flights from S ...",
+    "url": "https://sg.trip.com/flights/delhi-to-tokyo/airfares-del-tyo",
+    "snippet": "Cheap Flights from New Delhi to Tokyo starting at S$ 434 ; Air India \u00b7 20:10. 8h 15m ; IndiGo \u00b7 19:05. 8h 10m ; VietJet Air \u00b7 00:05. 11h 55m ; VietJet Air \u00b7 00:05. 28h\u00a0...Read more"
   },
   {
-    "title": "\u20b9\u00a020,362 Cheap Flights from India to Paris in 2026 | momondo",
-    "url": "https://www.momondo.in/flights/india/paris",
-    "snippet": "# Cheap flights from India to Paris from \u20b9\u00a020,362. ##### This is the cheapest one-way flight price found by a momondo user in the last 72 hours by searching for a flight from India to Paris departing on 23/9. Click the price to refresh the search for this deal. ## Find the cheapest flights from India to Paris. ### Recent return flight deals from India to Paris. ### Recent one-way flight deals from"
+    "title": "Delhi to Tokyo Flights Tickets - Price, Time & Distance",
+    "url": "https://www.airindia.com/en-in/book-flights/delhi-to-tokyo-flights",
+    "snippet": "Delhi to Tokyo flight price Business class: INR 2,25,018 | Economy class: INR 65,014 *prices may vary depending on the season and demand"
   }
 ]
