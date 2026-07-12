@@ -1,0 +1,31 @@
+[
+  {
+    "type": "summary",
+    "content": "Indian passport holders need a Schengen visa to visit Paris, France. The passport must be valid for at least six months beyond the planned departure date. No visa-on-arrival is available for Indian citizens."
+  },
+  {
+    "title": "France lifts airport transit visa requirements for Indian nationals | France in India",
+    "url": "https://in.diplomatie.gouv.fr/en/france-lifts-airport-transit-visa-requirements-indian-nationals",
+    "snippet": "# France lifts airport transit visa requirements for Indian nationals. With effect from 10 April 2026, Indian nationals possessing an ordinary passport are no longer required to hold an airport transit visa when passing through the international zone of airports located on French territory. During his recent visit to India in February 2026, French President Emmanuel Macron had announced that measu"
+  },
+  {
+    "title": "Visawire - Indian citizens residing in the UK need a France Schengen visa to visit France. This comprehensive guide covers everything from eligibility requirements to application procedures, helping you navigate the visa process successfully from London.",
+    "url": "https://visawire.co.uk/blogs/india-france-visa-guide",
+    "snippet": "# France Visa Guide for Indian Citizens in UK Complete Application Guide 2025. Yes, Indian citizens residing in London need a Schengen visa to travel to France. Your nationality is what matters here, not your UK residence being an Indian passport holder means you can't skip the visa process. ### Need Help with Your France Visa? ## France Schengen Visa Eligibility Criteria for Indian Passport Holde"
+  },
+  {
+    "title": "Regular Visa",
+    "url": "https://www.eoiparis.gov.in/page/regular-visa",
+    "snippet": "Passport Requirement: Original passport with a minimum validity of six monthsat the time of submitting visa application for grant of visa and at least two"
+  },
+  {
+    "title": "France Visa - E-Visa Requirements, Eligibility & How to Apply",
+    "url": "https://www.airindia.com/in/en/travel-information/visa-services/france-visa.html",
+    "snippet": "France does not offer visa-on-arrival for Indian citizens. Prior to visiting France, Indian nationals are required to obtain a Schengen visa if they are"
+  },
+  {
+    "title": "How to apply for a France visa?",
+    "url": "https://www.goindigo.in/information/visa-information/france-fr-visa.html",
+    "snippet": "Completed application form \u00b7 A passport that is valid for at least six months from the date of departure \u00b7 Confirmed return tickets \u00b7 Proof of accommodation"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "type": "summary",
+    "content": "Street food in Paris typically costs between \u20ac1.50 to \u20ac10 per item, with crepes around \u20ac5 and falafel sandwiches around \u20ac3. Prices vary by location and type of food."
+  },
+  {
+    "title": "Paris Street Food!! 10 CHEAP EATS You Can't Miss!!",
+    "url": "https://www.youtube.com/watch?v=k0B7Va-te44",
+    "snippet": "Paris Street Food!! 10 CHEAP EATS You Can't Miss!!\nMark Wiens\n11800000 subscribers\n22776 likes\n1125982 views\n31 May 2025\n\ud83c\uddeb\ud83c\uddf7 24 Hours Best French Food: https://youtu.be/h13cCP9wCpw\n\ud83d\udc49 SUBSCRIBE for more: https://www.youtube.com/@MarkWiens \n\nHuge thank you to Antoine and Colleen @LesFrenchiesTravel for taking me on this amazing French street food tour in Paris. We had a lot of fun, and I hope this wi"
+  },
+  {
+    "title": "Paris Street Food: Three Nights, One Couple, Way Too Many Cr\u00eapes",
+    "url": "https://eightyflavors.com/paris-street-food",
+    "snippet": "Yes, Paris street food \u2013\u00a0 you heard that right! Paris is not the most obvious destination that comes to mind when you think of street food, is it? But on our recent trip to the City of Lights we were very short on time and wanted to try as many local foods as possible. We were also there very spontaneously, meaning we couldn\u2019t get reservations at most coveted restaurants in the city. So, if like u"
+  },
+  {
+    "title": "THE BEST Street Food in Paris (Updated 2026) - Tripadvisor",
+    "url": "https://www.tripadvisor.com/Restaurants-g187147-c10686-Paris_Ile_de_France.html",
+    "snippet": "# Best Street Food in Paris, Ile-de-France. ## Street Food in Paris. Restaurants ranked by how well they match your selections and traveler reviews. Dishes labeled \"Must-try\" are currently the most talked-about foods in the area. Travelers\u2019 Choice Awards winners (including the \u201cBest of the Best\u201d title) are among the top 10% of listings on Tripadvisor, according to the reviews and opinions of trave"
+  },
+  {
+    "title": "Best Street Food in Paris: Top Spots for a Quick Bite",
+    "url": "https://www.parisunlocked.com/food/street-food-in-paris-favorite-spots-for-a-cheap-bite",
+    "snippet": "# Best Street Food in Paris: Our Picks For a Cheap Bite. So when I moved to Paris in my early 20s, I was surprised by how common it was to see people huddled around street corners, casually ambling or perched on park benches\u2013 and gobbling down anything from crepes and bakery sandwiches to falafel and Vietnamese spring rolls. Below, we share some of our favorite spots for a cheap and casual bite in"
+  },
+  {
+    "title": "how much can i expect to spend on food? : r/ParisTravelGuide - Reddit",
+    "url": "https://www.reddit.com/r/ParisTravelGuide/comments/17ujl3d/how_much_can_i_expect_to_spend_on_food",
+    "snippet": "For each restaurant, count minimum 15 - 30 euros for the basics, lunch usually cheaper than dinner, for more sophisticated restaurants, sky is the limit in"
+  }
+]

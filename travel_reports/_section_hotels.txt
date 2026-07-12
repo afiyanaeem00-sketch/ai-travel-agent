@@ -1,0 +1,31 @@
+[
+  {
+    "type": "summary",
+    "content": "Mid-range hotels in Paris, France, typically range from $160 to $300 per night in 2026. Some options start as low as $51. Availability may vary based on events."
+  },
+  {
+    "title": "Where to Stay: 12 Affordable Hotels in Paris - Petite Suitcase",
+    "url": "https://www.petitesuitcase.com/best-budget-hotels-paris",
+    "snippet": "Hotel rooms in Paris are some of the most expensive per square foot in Europe, and I know I\u2019m not the only one who is finding hotel pricing outrageous these days. I\u2019m all for a special occasion splurge, but pricing for even \u201cmid-range\u201d hotels has skyrocketed. However, I\u2019m still determined to find a decent hotel at a reasonable price point. These hotel suggestions all start at less than $300 a nigh"
+  },
+  {
+    "title": "Reasonably Priced Paris Hotels - Rick Steves Travel Forum",
+    "url": "https://community.ricksteves.com/travel-forum/france/reasonably-priced-paris-hotels",
+    "snippet": "I'll be in Paris for the first week or so of October - any recommendations for a nice, reasonably priced hotel (yes, that is a relative term in Paris)? I\u2019m headed out tomorrow and we are booked at Hotel le Regent. Reviews are good, location is good, and price in US dollars at current exchange rate worked out to be $210 a night. Looks like Paris\u2019 Fashion \u201cWeek,\u201d conventions and the Grape Harvest Fe"
+  },
+  {
+    "title": "THE 10 BEST Hotels in Paris, France 2026 (from $93)",
+    "url": "https://www.tripadvisor.com/Hotels-g187147-Paris_Ile_de_France-Hotels.html",
+    "snippet": "View deals from $93 per night, see photos and read reviews for the best Paris hotels from travelers like you - then compare today's"
+  },
+  {
+    "title": "Top 10 Hotels in Paris (from $51) 2026 - Competitive Prices",
+    "url": "https://www.expedia.com/Paris-Hotels.d179898.Travel-Guide-Hotels",
+    "snippet": "Located in the Paris area, Roissy-en-France is a smart choice ... 6.8/10 (1,008 reviews). $39 nightly. The price is $51 total per night from Jul 21 to Jul 22.Read more"
+  },
+  {
+    "title": "The Best Hotels in Paris Under $300 a Night | Cond\u00e9 Nast Traveler",
+    "url": "https://www.cntraveler.com/gallery/cheapest-nicest-hotels-in-paris",
+    "snippet": "# The Best Hotels in Paris Under $300 a Night. For me, there's always been good reason to research some of the cheapest, nicest hotels in Paris. For the price of a spacious suite with a view in another\u00a0European city, here, this often equates to a shoebox with a pokey bathroom and window overlooking a back alley. There are, of course, some incredible\u00a0hotels in Paris\u2014among some of the best and most "
+  }
+]

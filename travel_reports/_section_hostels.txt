@@ -1,0 +1,31 @@
+[
+  {
+    "type": "summary",
+    "content": "Budget hostels in Paris, France, start from \u20ac4 per night, with average prices around $57. The cheapest month to book is January. Popular hostels include The People and St Christopher's Inn."
+  },
+  {
+    "title": "Affordable Paris Hostels From $57/night - HotelsCombined",
+    "url": "https://www.hotelscombined.com/Place/Paris-hostels.htm",
+    "snippet": "## Search and compare Paris, France hostels from hundreds of travel sites on HotelsCombined and save. Compare hotel ratings collected from thousands of user reviews. Customize your results by hotel chain, amenities, price and more. Search for hotels as many times as you want \u2013 for free. ## Popular hostels in Paris. There are 19,695 hotels in Paris and price data was last updated on June 25, 2026. "
+  },
+  {
+    "title": "Hostels in Paris from $51/night - KAYAK",
+    "url": "https://www.kayak.com/Paris-Hotels_Hostel.Thostel.36014.hotel.ksp",
+    "snippet": "## KAYAK searches hundreds of travel sites at once for hostels in Paris. Le Village Montmartre by Hiphophostels - Paris - Bedroom. The Playce - Paris - Paris - Bedroom. The People - Paris Bercy - Paris - Bar. Le Regent Montmartre by Hiphophostels - Paris - Building. Aloha Eiffel Tower by Hiphophostels - Paris - Bedroom. The cheapest month to book a hostel in Paris is January, with an average night"
+  },
+  {
+    "title": "Hostels in Paris from \u20ac4 \ud83e\udd11 for Solo Travel 2026",
+    "url": "https://www.hostelz.com/hostels/France/Paris",
+    "snippet": "## Top Picks: The Best Hostels in Paris. Best for Female Solo Traveler. The People Hostel - Par...9.1. This is **not** an ad. We help you find the perfect hostel and compare prices from Hostelworld and Booking. #### Top Social Hostels. # Hostels in Paris, France. Prices start from \u20ac4 for a dorm bed. The property offers cheaper privates and shared accommodation at 15 minutes to Paris Center. In cas"
+  },
+  {
+    "title": "What are the best hostels in Paris with private rooms under 60 euros?",
+    "url": "https://www.facebook.com/groups/paristraveltiphotelbookingthingstodo/posts/904494908097049",
+    "snippet": "Le Village Montmartre Hostel: Offers dorms and private rooms with views of the Basilica of Sacr\u00e9- Coeur, starting from $27 per night in shared"
+  },
+  {
+    "title": "THE 10 BEST Cheap Paris Hostels 2026 (with Prices) - Tripadvisor",
+    "url": "https://www.tripadvisor.com/HotelsList-Paris-Cheap-Hostels-zfp20141.html",
+    "snippet": "# THE 10 BEST Cheap Paris Hostels. ## Cheap Paris Hostels. St Christopher's Inn Paris - Canal 3.9 (1,498) #1 Best Value of 10 Cheap Paris Hostels    \"Superb buffet breakfast with lots of varieties to choose from which was yummy and affordable.\" \"Great atmosphere & good food with cheap cocktails!\"    from $57  Check availability. The People Belleville 4.4 (658) #2 Best Value of 10 Cheap Paris Hoste"
+  }
+]
